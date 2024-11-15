@@ -8,6 +8,8 @@ list_of_files = [
     "src/__init__.py", 
     "src/helper.py",
     "src/prompt.py", 
+    "src/logger.py",
+    "scr/exception.py",
     ".env", 
     "requirements.txt",
     "setup.py", 
